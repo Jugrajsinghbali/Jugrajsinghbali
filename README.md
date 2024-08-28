@@ -30,7 +30,8 @@
     <code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
     <code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
     <code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecolaboratory-light.svg" alt="Google Colaboratory" title="Google Colaboratory"/></code>
-    <code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/javascript.svg" alt="JavaScript" title="JavaScript"/></code>
+   
+    
     <!-- Add more tech icons as necessary -->
 </div>
 </details>
