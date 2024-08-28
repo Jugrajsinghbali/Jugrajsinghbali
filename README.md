@@ -6,7 +6,7 @@
 </h1>
 
 <h3>A passionate Data Scientist from India</h3>
-<img src= min-width="300px" max-width="300px" width="350px" align="right">
+
 
 - 💻  I’m currently learning AiMl
 - 💬 Ask me about Machine Learning
