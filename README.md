@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jugraj+Singh!;" />
 </h1>
 
-<h3>A passionate Data Scientist from India</h3>
+<h3>A passionate Software Developer from India</h3>
 
 
 - 💻  I’m currently learning AiMl
